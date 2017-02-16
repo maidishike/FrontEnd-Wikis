@@ -27,7 +27,7 @@
   - 192.30.253.112 github.com
   - 151.101.88.249 github.global.ssl.fastly.net>
 
- ### 如果本地已经做了代理
+### 如果本地已经做了代理
 
  1、关闭npm的https
 
