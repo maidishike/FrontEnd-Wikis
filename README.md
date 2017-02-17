@@ -21,3 +21,5 @@ Vue与Webpack：https://github.com/vuejs-templates/webpack
 ## About Js
 
 javascript资源分享: https://github.com/maidishike/FrontEnd-Wikis/blob/master/javascript.md
+
+js常用的代码收集: https://github.com/maidishike/FrontEnd-Wikis/blob/master/js-code-pool.md
