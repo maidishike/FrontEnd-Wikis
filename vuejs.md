@@ -1,7 +1,5 @@
 ## Vue.js资源分享
 
-> 文章转自：https://github.com/jsfront/src/blob/master/vuejs.md
-
 
 ### 如何优雅地使用此文档
 1. 入门先从官网文档入手，粗略过一遍有个印象，力求回查时能找到对应的关键字或位置。
@@ -186,3 +184,5 @@
 
  - [尤小右 - 4-1 Vue.js-数据驱动的组件化前端开...](http://www.imooc.com/video/6346)
  - [Evan You - Diving Deep into Vue.js](https://simplecast.fm/s/5e60d9be)
+
+> 文章转自：https://github.com/jsfront/src/blob/master/vuejs.md

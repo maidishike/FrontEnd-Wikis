@@ -1,7 +1,5 @@
 ## JavaScript资源分享
 
->文章转自：https://github.com/jsfront/src/blob/master/qq.md
-
 ### 一. 资源教程:
 
 1. 综合类
@@ -1135,3 +1133,5 @@
 2. SVN
 
     - [版本管理工具介绍---SVN篇](http://www.imooc.com/learn/109)
+
+>文章转自：https://github.com/jsfront/src/blob/master/qq.md
