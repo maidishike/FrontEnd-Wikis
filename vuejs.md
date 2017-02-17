@@ -73,7 +73,7 @@
     - [vue bootstrap](http://yuche.github.io/vue-strap/)
     - [基于Vue、Bootstrap的一套MVVM组件，简单、易用、功能强大](https://github.com/bravf/VueUI)
     - [用VUE 和 SUI-Mobile 写了一个移动端demo - vue-sui-demo](https://github.com/eteplus/vue-sui-demo)
-    - [Mobile web UI based on Vue and Weui](https://github.com/airyland/vux)
+    - [VUX: 基于 WeUI 和 Vue 的移动端组件库](https://github.com/airyland/vux)
     - [Mint UI 基于 Vue.js 的移动端组件库](http://mint-ui.github.io/)
     - [Vue Admin Panel Framework [WIP] ](https://github.com/fundon/vue-admin)
     - [Vue 的图片轮播组件](https://github.com/qusiba/vue-slider)
