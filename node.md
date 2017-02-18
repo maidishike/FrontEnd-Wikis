@@ -1,7 +1,7 @@
 ## nodejs资源分享
 
 ### 学习路线图
-> 以下内容是我整理的文档和教程，每个软件包对应一篇文章，大家可以根据自己的需要进行阅读，完整的文章列表，可以查看：[从零开始nodejs系列文章](http://blog.fens.me/series-nodejs/)，个人觉得从零开始nodejs系列文章挺值得看的。
+> 以下内容是整理的文档和教程，大家可以根据自己的需要进行阅读，完整的文章列表，可以查看：[从零开始nodejs系列文章](http://blog.fens.me/series-nodejs/)，个人觉得从零开始nodejs系列文章挺值得看的。
 
 - 项目管理：npm,grunt, bower, yeoman
 - Web开发：express,ejs,hexo, socket.io, restify, cleaver, stylus, browserify,cheerio
