@@ -23,3 +23,7 @@ Vue与Webpack：https://github.com/vuejs-templates/webpack
 javascript资源分享: https://github.com/maidishike/FrontEnd-Wikis/blob/master/javascript.md
 
 js常用的代码收集: https://github.com/maidishike/FrontEnd-Wikis/blob/master/js-code-pool.md
+
+## About Node
+
+nodejs资源分享：https://github.com/maidishike/FrontEnd-Wikis/blob/master/node.md
