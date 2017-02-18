@@ -20,7 +20,7 @@ Vue and Webpack：https://github.com/vuejs-templates/webpack
 
 ## About Js
 
-Javascript resources: https://github.com/maidishike/FrontEnd-Wikis/blob/master/javascript.md
+Front-End resources: https://github.com/maidishike/FrontEnd-Wikis/blob/master/frontend.md
 
 Js common code collection: https://github.com/maidishike/FrontEnd-Wikis/blob/master/js-code-pool.md
 
