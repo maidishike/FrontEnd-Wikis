@@ -28,4 +28,4 @@
 
 - MarkDown parser(markdown-it): https://github.com/markdown-it/markdown-it
 
--《谷歌安全白皮书》2017中文版：https://www.easyaq.com/newsdetail/id/1875316908.shtml
+- 《谷歌安全白皮书》2017中文版：https://www.easyaq.com/newsdetail/id/1875316908.shtml
