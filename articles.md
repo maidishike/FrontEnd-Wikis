@@ -21,10 +21,14 @@
 
 > Vue.js
 
+- React还是Vue：你该如何选择？ https://zhuanlan.zhihu.com/p/24548677
+
 　
 > React.js
 
-　
+- 深入理解 React 高阶组件 https://zhuanlan.zhihu.com/p/24776678
+
+
 > Full Stack
 
 - JavaScript 全栈工程师培训教程 http://www.ruanyifeng.com/blog/2016/11/javascript.html
