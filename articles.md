@@ -18,6 +18,7 @@
 
 - 前端基础进阶（七）：函数与函数式编程 http://www.jianshu.com/p/69dede6f7e5f
 
+- Javascript函数节流 http://www.cnblogs.com/dolphinX/p/3403821.html
 
 > Vue.js
 
