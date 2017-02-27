@@ -28,6 +28,8 @@
 
 - 深入理解 React 高阶组件 https://zhuanlan.zhihu.com/p/24776678
 
+- React 高级指南小记 https://uxwind.me/2016/11/29/react-advanced-guides.html
+
 
 > Full Stack
 
@@ -44,10 +46,10 @@
 
 ### 三、其他文章
 
-- 2017年前端工程师应该学习什么：http://huzidaha.com/posts/detail?postId=58aaa33bfc5b7f63e8c23f68
+- 2017年前端工程师应该学习什么 http://huzidaha.com/posts/detail?postId=58aaa33bfc5b7f63e8c23f68
 
-- MarkDown parser(markdown-it): https://github.com/markdown-it/markdown-it
+- MarkDown parser(markdown-it) https://github.com/markdown-it/markdown-it
 
-- 《谷歌安全白皮书》2017中文版：https://www.easyaq.com/newsdetail/id/1875316908.shtml
+- 《谷歌安全白皮书》2017中文版 https://www.easyaq.com/newsdetail/id/1875316908.shtml
 
-- Web如何防止XSS攻击：https://segmentfault.com/a/1190000007752362
+- Web如何防止XSS攻击 https://segmentfault.com/a/1190000007752362
