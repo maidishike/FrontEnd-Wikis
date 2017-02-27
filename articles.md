@@ -49,3 +49,5 @@
 - MarkDown parser(markdown-it): https://github.com/markdown-it/markdown-it
 
 - 《谷歌安全白皮书》2017中文版：https://www.easyaq.com/newsdetail/id/1875316908.shtml
+
+- Web如何防止XSS攻击：https://segmentfault.com/a/1190000007752362
