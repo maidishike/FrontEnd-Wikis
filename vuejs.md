@@ -6,11 +6,6 @@
     - [vuejs中文官网](http://cn.vuejs.org/)
     - [vuejs英文官网](http://vuejs.org/)
     - [vuejs组织](https://github.com/vuejs)
-2. 发出一个问题之后，不要暂时的离开电脑，如果没有把握先不要提问。
-3. 珍惜每一次提问，感恩每一次反馈，每个人工作还是业余之外抽出的时间有限，充分准备好应有的资源之后再发问，有利于问题能够高效质量地得到解决。尤其是具备解决问题能力的人，通常时间都很宝贵。
-4. 先搜索，再思考，最后再提问，很多人把这个顺序搞反了。
-5. - [如何优雅地向前辈或者高手请教技术问题？](https://www.zhihu.com/question/25464141)
-以上部分观点出自此文 [如何优雅地使用 Stack Overflow](http://www.zhihu.com/question/20824615)
 
 ### 一. 资源教程
 
@@ -180,6 +175,7 @@
 - [vue源码分析之如何实现observer和watcher](http://segmentfault.com/a/1190000004384515)
 - [vue源码解析之一：transition](https://segmentfault.com/a/1190000004670036)
 - [Vue源码学习 Vue.js v1.0.18](https://github.com/JsAaron/vue-analysis)
+- [VUE2.0 源码分析](http://www.jianshu.com/p/758da47bfdac)
 
 ### 八. 框架相关
 
