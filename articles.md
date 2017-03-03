@@ -40,7 +40,9 @@
 
 > 前端工程化
 
-- webpack打包分析与性能优化：https://segmentfault.com/a/1190000008377195
+- webpack打包分析与性能优化 https://segmentfault.com/a/1190000008377195
+
+- webpack入门指南 http://www.w2bc.com/Article/50764
 
 ### 二、后端文章
 
