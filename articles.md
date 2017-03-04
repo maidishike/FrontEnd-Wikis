@@ -44,6 +44,8 @@
 
 - webpack入门指南 http://www.w2bc.com/Article/50764
 
+- webpack多页应用架构专题系列 http://array_huang.coding.me/webpack-book/
+
 ### 二、后端文章
 
 
