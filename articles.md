@@ -24,6 +24,10 @@
 
 - React还是Vue：你该如何选择？ https://zhuanlan.zhihu.com/p/24548677
 
+- 2016 年崛起的 JS 项目 https://zhuanlan.zhihu.com/p/25709238
+
+- Vue新手入门指南 https://zhuanlan.zhihu.com/p/25659025
+- Vuex新手入门指南 https://zhuanlan.zhihu.com/p/25701238
 　
 > React.js
 
