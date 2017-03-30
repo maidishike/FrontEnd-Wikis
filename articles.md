@@ -20,6 +20,8 @@
 
 - Javascript函数节流 http://www.cnblogs.com/dolphinX/p/3403821.html
 
+- 常用的20个正则表达式 http://gcdn.gcpowertools.com.cn/showtopic-36555-1-3.html
+
 > Vue.js
 
 - React还是Vue：你该如何选择？ https://zhuanlan.zhihu.com/p/24548677
@@ -27,7 +29,10 @@
 - 2016 年崛起的 JS 项目 https://zhuanlan.zhihu.com/p/25709238
 
 - Vue新手入门指南 https://zhuanlan.zhihu.com/p/25659025
+
 - Vuex新手入门指南 https://zhuanlan.zhihu.com/p/25701238
+
+- 如何写一手漂亮的Vue http://jeffjade.com/2017/03/11/120-how-to-write-vue-better/
 　
 > React.js
 
