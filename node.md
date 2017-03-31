@@ -17,6 +17,7 @@
 ### 文档
 
 - Node.js 官方文档：http://nodejs.org/api/
+- Node.js 官方中文文档：http://nodejs.cn/api/
 - Node.js 中文文档：http://nodeapi.ucdok.com/
 - Express 官方文档：http://expressjs.com/
 - Express 中文文档：http://expressjs.jser.us/
