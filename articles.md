@@ -60,6 +60,8 @@
 
 ### 三、其他文章
 
+- 技术简历的秘籍 https://mp.weixin.qq.com/s/WNnvhGK_BDeZFRlXWjOhJA
+
 - 2017年前端工程师应该学习什么 http://huzidaha.com/posts/detail?postId=58aaa33bfc5b7f63e8c23f68
 
 - MarkDown parser(markdown-it) https://github.com/markdown-it/markdown-it
