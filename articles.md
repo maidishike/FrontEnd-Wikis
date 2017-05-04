@@ -22,6 +22,8 @@
 
 - 常用的20个正则表达式 http://gcdn.gcpowertools.com.cn/showtopic-36555-1-3.html
 
+- 图片预加载插件 https://segmentfault.com/a/1190000009287141
+
 > Vue.js
 
 - React还是Vue：你该如何选择？ https://zhuanlan.zhihu.com/p/24548677
